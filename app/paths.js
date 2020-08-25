@@ -117,6 +117,9 @@ module.exports = {
   toggle3ds: {
     index: '/3ds'
   },
+  toggleMotoMaskCardNumberAndSecurityCode: {
+    index: '/moto-mask-card-number-and-security-code'
+  },
   toggleBillingAddress: {
     index: '/billing-address'
   },
